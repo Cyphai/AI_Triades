@@ -1,0 +1,6 @@
+Pour traduire l'interface du logiciel Triades, traduisez le contenu du fichier messages_french.properties dans votre langue. Ensuite, renommez ce fichier en messages_local.properties et placez le dans le dossier d'installation de Triades (à côté du fichier Triades_fr_*.*.*.exe). Les éléments à traduire sont les mots ou les phrases placées après le '='. Faites attention aux espaces placés en début ou en fin de lignes, il est important de les conserver. 
+
+Pour remettre la langue par défaut (français ou anglais), il suffit de renommer ou de déplacer le fichier "messages_local.properties".
+
+L'encodage du fichier doit être UTF-16 ou iso-latin1, mais dans ce cas les accent doivent être remplacé par les caractère unicode-16 correspondant (par exemple \u00E9 pour le 'é').
+

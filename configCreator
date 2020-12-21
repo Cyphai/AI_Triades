@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_26" class="java.beans.XMLDecoder"> 
+ <object class="tools.ConfigCreator"> 
+  <void property="lastDatapack"> 
+   <void property="lastObjects"> 
+    <void method="add"> 
+     <string>/home/babcool/Triade/childhood9janvier.dtp</string> 
+    </void> 
+    <void method="add"> 
+     <string>/home/babcool/Triade/childhood 4 janvier 2012.dtp</string> 
+    </void> 
+   </void> 
+  </void> 
+ </object> 
+</java> 

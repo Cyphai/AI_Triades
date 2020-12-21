@@ -1,0 +1,10 @@
+ - vérifier ExecutionMode
+ - vérifier mail d'envoie des erreurs et des relations
+ - vérifier version
+ - Externaliser strings
+ - Vérifier clé de cryptage son enregistrement dans la bdd
+ - mettre à jour splashScreen
+ - verifier les string en anglais et en francais (fonction dans le menu Debug)
+ - Commenter les lignes qui utilisent la clef KeyI pour une version extern
+ 	- Datapack.exportDataPack() ligne 582 environ
+ 	- Key.getProgramKey(). a la fin. 

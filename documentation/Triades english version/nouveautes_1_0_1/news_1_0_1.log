@@ -1,0 +1,584 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.6)  2 DEC 2012 17:39
+entering extended mode
+ %&-line parsing enabled.
+**news_1_0_1.tex
+(./news_1_0_1.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(./preamble.tex (/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texmf-texlive/tex/latex/ucs/ucs.sty
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2004/10/17 UCS: Unicode global data
+)
+\uc@secondtry=\count87
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/frenchb.ldf
+Language: frenchb 2009/03/16 v2.3d French support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+
+Package babel Warning: No hyphenation patterns were loaded for
+(babel)                the language `French'
+(babel)                I will use the patterns loaded for \language=0 instead.
+
+\l@french = a dialect from \language0
+Package babel Info: Making : an active character on input line 120.
+Package babel Info: Making ; an active character on input line 121.
+Package babel Info: Making ! an active character on input line 122.
+Package babel Info: Making ? an active character on input line 123.
+\FB@Mht=\dimen104
+\std@mcc=\count89
+\dec@mcc=\count90
+\parindentFFN=\dimen105
+*************************************
+* Local config file frenchb.cfg used
+*
+(/usr/share/texmf-texlive/tex/generic/babel/frenchb.cfg)))
+(/usr/share/texmf-texlive/tex/latex/carlisle/scalefnt.sty)
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen106
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen107
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks21
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks22
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks23
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+(/usr/share/texmf-texlive/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2000/09/19 1.3
+
+Style option: `fancybox' v1.3 <2000/09/19> (tvz)
+\@fancybox=\box28
+\shadowsize=\dimen115
+\@Sbox=\box29
+\do@VerbBox=\toks25
+\the@fancyput=\toks26
+\this@fancyput=\toks27
+\EndVerbatimTokens=\toks28
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) (/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2008/12/21 v4.2 Page Geometry
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count103
+\Gm@cntv=\count104
+\c@Gm@tempcnt=\count105
+\Gm@bindingoffset=\dimen116
+\Gm@wd@mp=\dimen117
+\Gm@odd@mp=\dimen118
+\Gm@even@mp=\dimen119
+\Gm@dimlist=\toks29
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count106
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(/usr/share/texmf-texlive/tex/latex/caption/caption.sty
+Package: caption 2009/10/09 v3.1k Customizing captions (AR)
+
+(/usr/share/texmf-texlive/tex/latex/caption/caption3.sty
+Package: caption3 2009/10/09 v3.1k caption3 kernel (AR)
+\captionmargin=\dimen122
+\captionmargin@=\dimen123
+\captionwidth=\dimen124
+\caption@indent=\dimen125
+\caption@parindent=\dimen126
+\caption@hangindent=\dimen127
+)
+\c@ContinuedFloat=\count107
+)
+(/usr/share/texmf-texlive/tex/latex/caption/subcaption.sty
+Package: subcaption 2008/08/31 v1.0b Adding subcaptions (AR)
+\c@subfigure=\count108
+\c@subtable=\count109
+)) (./news_1_0_1.aux)
+\openout1 = `news_1_0_1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+(/usr/share/texmf-texlive/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
+)
+LaTeX Info: Redefining \degres on input line 3.
+LaTeX Info: Redefining \dots on input line 3.
+LaTeX Info: Redefining \up on input line 3.
+
+
+Package frenchb.ldf Warning: OT1 encoding should not be used for French. 
+(frenchb.ldf)                Add \usepackage[T1]{fontenc} to the preamble
+(frenchb.ldf)                of your document, on input line 3.
+
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+-------------------- Geometry parameters
+paper: a4paper
+landscape: --
+twocolumn: --
+twoside: --
+asymmetric: --
+h-parts: 71.13188pt, 455.24411pt, 71.13188pt
+v-parts: 85.35826pt, 674.33032pt, 85.35826pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  597.50787pt
+\paperheight 845.04684pt
+\textwidth  455.24411pt
+\textheight 674.33032pt
+\oddsidemargin  -1.1381pt
+\evensidemargin -1.1381pt
+\topmargin  -23.91173pt
+\headheight 12.0pt
+\headsep    25.0pt
+\footskip   30.0pt
+\marginparwidth 57.0pt
+\marginparsep   11.0pt
+\columnsep  10.0pt
+\skip\footins  9.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count110
+\scratchdimen=\dimen128
+\scratchbox=\box30
+\nofMPsegments=\count111
+\nofMParguments=\count112
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen129
+\MPnumerator=\count114
+\everyMPtoPDFconversion=\toks31
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+ (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+<../images/ouverture_session.png, id=1, 301.125pt x 301.125pt>
+File: ../images/ouverture_session.png Graphic file (type png)
+
+<use ../images/ouverture_session.png>
+<../images/gestion_session.png, id=3, 496.10344pt x 400.49625pt>
+File: ../images/gestion_session.png Graphic file (type png)
+
+<use ../images/gestion_session.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../images/ouverture_sessio
+n.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+<../images/menu_edition.png, id=16, 377.91188pt x 168.63pt>
+File: ../images/menu_edition.png Graphic file (type png)
+
+<use ../images/menu_edition.png>
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+ []
+
+[2 <../images/gestion_session.png> <../images/menu_edition.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
+
+ []
+
+<../images/export_global.png, id=22, 963.6pt x 578.16pt>
+File: ../images/export_global.png Graphic file (type png)
+
+<use ../images/export_global.png>
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+
+ []
+
+<../images/note_fermee.png, id=23, 120.45pt x 159.59625pt>
+File: ../images/note_fermee.png Graphic file (type png)
+
+<use ../images/note_fermee.png>
+<../images/note_ouverte_pas_edition.png, id=24, 202.50656pt x 152.06813pt>
+File: ../images/note_ouverte_pas_edition.png Graphic file (type png)
+
+<use ../images/note_ouverte_pas_edition.png>
+<../images/note_ouverte_edition.png, id=25, 366.61969pt x 408.77719pt>
+File: ../images/note_ouverte_edition.png Graphic file (type png)
+
+<use ../images/note_ouverte_edition.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--128
+
+ []
+
+<../images/translator.png, id=26, 739.26187pt x 366.61969pt>
+File: ../images/translator.png Graphic file (type png)
+
+<use ../images/translator.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <../images/export_global.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+[4 <../images/note_fermee.png> <../images/note_ouverte_pas_edition.png> <../ima
+ges/note_ouverte_edition.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+[5 <../images/translator.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--201
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--213
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--229
+
+ []
+
+[6] (./news_1_0_1.aux) ) 
+Here is how much of TeX's memory you used:
+ 4478 strings out of 495061
+ 63665 string characters out of 1182622
+ 147009 words of memory out of 3000000
+ 7588 multiletter control sequences out of 15000+50000
+ 12449 words of font info for 48 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 38i,11n,43p,566b,427s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sh
+are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public
+/amsfonts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
+cmti10.pfb>
+Output written on news_1_0_1.pdf (6 pages, 453884 bytes).
+PDF statistics:
+ 70 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="Jar/Triades.1.0.1.intern.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Triades/TriadesIntern.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=Triades/&lt;graphicalUserInterface{TriadeLauncher.java[TriadeLauncher" manifestLocation="/Triades/META-INF/Triades/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Triades/&lt;models{GraphListener.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{ActionTime.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{JeuRelation.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{Content.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{CompanyInfo.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{TrampolineAction.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{ObjectifMoyenMoyen.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{PopUpHelpView.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{Moyen.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{ObjectifFormesDecisionnelles.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{Controller.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{SavableObject.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{ActeurSelectionne.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{IconDatabase.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;client.stringTranslator"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{TriadeLauncher.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{ObjectifActeurObjet.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{ActeurBase.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{TitleBar.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{TreeActorsCellRendere.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{MyMutableJTree.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{ListeActeurSelectionne.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{ProgramSettings.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;models{BrickVertex.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{ActivitesEntreprise.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{PopUpView.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;relations{EnsembleRelation.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{MainFrameDatapackCreator.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{BrickParameterPopUp.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;models{Brick.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{CompanyInfoView.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{ActorListView.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{ObjectifObjetActeur.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{RankContextualMenu.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{ActionTimeListe.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{MainFrame.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{ModelActeursEntreprise.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;client.export"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{TreeListener.java"/>
+        <file path="/Triades/Licences"/>
+        <javaElement handleIdentifier="=Triades/&lt;relations{RelationDescription.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;relations{DescriptionBuilder.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{Activite.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{TreeCellEditor.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{ObjectifMoyenActeur.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{ObjectifRetourLienHierarchique.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;relations{Mean.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;encrypting"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{ActorSetView.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{JeuActeur.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;models{AbstractSchema.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{Logger.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{Program.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{StatutObjet.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{Objectif.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{Statut.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{MyDefaultMutableTreeNode.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{ExecutionMode.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{ObjectifMoyenObjet.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{DialogHandlerFrame.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;models{NavigationMousePlugin.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;models{ModelsEditingModalGraphMouse.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{ConfigUser.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{ObjectifActeurMoyen.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{TreeTransferHandler.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;tools"/>
+        <javaElement handleIdentifier="=Triades/&lt;models{BrickView.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{RelationChooserPopUp.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{GroupeRoot.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{AssistantFrameTriades.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{RelationComplete.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;client"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{FiltreActeursEntreprise.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;relations{RelationPossibility.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{MainFrameTriades.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{JTreeActors.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;models{BrickEditingMousePlugin.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;models{BrickEdge.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{DataPack.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{GroupeJeuActeur.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;translation"/>
+        <javaElement handleIdentifier="=Triades/&lt;relations{Goal.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{Groupe.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;models{TriadeEditingMousePlugin.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{Liens.java"/>
+        <file path="/Triades/.classpath"/>
+        <javaElement handleIdentifier="=Triades/&lt;models{MyPickingEditingMousePlugin.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{RelationChooserView.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{ObjectifLienHierarchique.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{ObjectifLienPartenaire.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface{TriadeIntroPanel.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{MoyenEntreprise.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{AutoSaveCreator.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;models{NavigationEdge.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;Mailing"/>
+        <javaElement handleIdentifier="=Triades/&lt;main{ObjectifObjetMoyen.java"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack{Acteur.java"/>
+    </selectedElements>
+</jardesc>

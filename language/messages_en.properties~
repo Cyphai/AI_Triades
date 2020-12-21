@@ -1,0 +1,478 @@
+ActeurBase.0=unnamed base
+
+ActeurSelectionne.0=\ (main actor)
+ActeurSelectionne.1=\ (secondary actor)
+ActeurSelectionne.2=\ (remaining actor)
+
+ActorListView.0=Session of  
+ActorListView.1=Main actors
+ActorListView.10=Add a secondary actor
+ActorListView.11=You have to select some main actors before creating the session.
+ActorListView.12=Name for the session : 
+ActorListView.14=Actor's description
+ActorListView.15=Main actor   
+ActorListView.16=Secondary actor
+ActorListView.2=Name for the session :
+ActorListView.3=Add a main actor
+ActorListView.4=Create the session
+ActorListView.5=Information
+ActorListView.6=The selected item is not an actor.
+ActorListView.7=Actor n°
+ActorListView.8=Delete
+ActorListView.9=Secondary actors
+
+ActorSheetAccess.0=Description access
+ActorSheetAccess.1=Open the description 
+
+ActorSheetView.1=Name associated to this actor : 
+ActorSheetView.10=Description of : 
+ActorSheetView.2=" for the session : 
+ActorSheetView.3=First telling
+ActorSheetView.5=Second telling
+ActorSheetView.7=Additional informations
+
+AssistantFrameTriades.0=Welcome
+AssistantFrameTriades.2=Edit all the diagrams
+AssistantFrameTriades.3=Create a new session
+AssistantFrameTriades.4=Open a session
+AssistantFrameTriades.5=Ok
+AssistantFrameTriades.6=Cancel
+AssistantFrameTriades.7=Please select an option
+AssistantFrameTriades.8=Previous sessions :
+
+AutoSaveCreator.2=A more recent autosave file exist, do you want to use it?
+
+BrickVertex.0=Meaning 
+BrickVertex.1=Actor :  
+BrickVertex.2=Activity : 
+BrickVertex.3=Unknown content type
+BrickVertex.4=Brick : 
+
+BrickView.0=Show secondary actors
+BrickView.1=Hide secondary actors
+BrickView.11=Unnamed vertex
+BrickView.2=Show remaining actors
+BrickView.3=Hide remaining actors
+BrickView.4=Hide remaining actors
+BrickView.5=Show secondary actors
+BrickView.6=Show remaining actors
+BrickView.8=Hide remaining actors
+
+Controller.34=Nouveau
+Controller.35=datapack.dtp
+Controller.36=datapack
+Controller.37=Do you want to save the 
+Controller.38=\ before opening another one ?
+Controller.39=Do you want to save before exit ?
+
+DialogHandlerFrame.0=Warning
+DialogHandlerFrame.1=Please select an option : 
+
+ExportedDatapackModule.0=Complete session
+
+ExportImagesView.0=Triades
+ExportImagesView.1=Information
+ExportImagesView.2=Delete or rename the file
+ExportImagesView.3=\ in the folder where you launch Triade and redo.
+ExportImagesView.4=Validate
+ExportImagesView.5=Cancel
+ExportImagesView.6=Use this image for all the session
+ExportImagesView.7=Pictures
+
+ExportingMousePlugin.0=There is no edge between these vertices.
+ExportingMousePlugin.1=Show previous step
+ExportingMousePlugin.2=The first step is already displayed. 
+ExportingMousePlugin.3=Show next step
+ExportingMousePlugin.4=The last step is already displayed. 
+
+ExportPopUp.0=Selection of the vertex picture
+ExportPopUp.1=Associated text
+ExportPopUp.10=Visible
+ExportPopUp.12=Displayed step
+ExportPopUp.16=The first step is already displayed
+ExportPopUp.18=The last step is already displayed
+ExportPopUp.2=Label of the vertex. If you left this field empty, a default text will be used.
+ExportPopUp.3=Hide
+ExportPopUp.4=Displayed step control. Used to check the appearance order
+ExportPopUp.7=Appearance order
+ExportPopUp.8=Choose a picture
+ExportPopUp.9=Picture
+
+ExportsContextualMenu.0=Export
+ExportsContextualMenu.1=Export to a picture
+ExportsContextualMenu.2=Please choose the name of the file
+ExportsContextualMenu.3=Export of 
+
+ExportTree.0=\ (hidden)
+
+JpegGenerator.0=Export folder selection
+JpegGenerator.10=\ already exist.\nDo you want to replace it ?
+JpegGenerator.11=_Step_
+JpegGenerator.13=Picture saved in  
+JpegGenerator.15=Error while saving the picture
+JpegGenerator.16=Picture saved in  
+JpegGenerator.18=Error while saving the picture
+JpegGenerator.19=Generate a picture
+JpegGenerator.2=Filename : 
+JpegGenerator.4=Pictures
+JpegGenerator.7=_Steps_
+JpegGenerator.9=The file 
+
+
+MailAddRelationForm.0=[TriadesRelation]
+MailAddRelationForm.addRelationIntroduction= want to add relations : \n\n
+MailAddRelationForm.addRelationSubject=Relation adding request : 
+
+MailErrorForm.0=Complementary information (Describe the action which trigger the error) : \n\n\nError report : \n
+MailErrorForm.3=Error report
+
+MailForm.1=Information
+MailForm.2=Mail sended
+MailForm.3=Error while sending the mail
+
+MailFormFactory.addRelationSubject=Relation adding request
+MailFormFactory.informationRequestSubject=Information request
+
+MailSender.0=file 
+MailSender.1=\ not found, impossible to add it to the mail
+MailSender.8=Impossible to send the datapack after the error
+MailSender.subjectPrefix=[Triades] 
+MailSender.subjectSuffix=\ (Mail pour robert)
+
+MailView.0=Mail
+MailView.10=Send
+MailView.4=Form type
+MailView.5=Subject
+MailView.6=Content
+MailView.7=Reply address
+MailView.8=Mail form
+MailView.9=Cancel
+
+MainFrame.1=<html><u>F</u>ile</html>
+MainFrame.10=Close
+MainFrame.11=Quit
+MainFrame.12=Delete
+MainFrame.13=Rename
+MainFrame.14=Close tab
+MainFrame.15=Help
+MainFrame.16=Check for update
+MainFrame.17=About
+MainFrame.18=Relation adding request
+MainFrame.19=Tree
+MainFrame.2=<html><u>E</u>dition</html>
+MainFrame.20=Edition
+MainFrame.21=Check for update
+MainFrame.22=Your installation is up-to-date
+MainFrame.23=About
+MainFrame.24=Triades v. 1.0\n\Developpers :\nMaurin NADAL\nLaurent DUTERTRE\nTemporary developper : \nTh\u00E9o TATINCLAUX\n\n(c) 2009
+MainFrame.25=Send mail to developers
+MainFrame.26=Maximize
+MainFrame.27=Tree
+MainFrame.28=Maximize
+MainFrame.29=New
+MainFrame.3=Window
+MainFrame.30=Open
+MainFrame.31=Save
+MainFrame.32=Save as ...
+MainFrame.33=Delete
+MainFrame.34=Help
+MainFrame.35=Close tab
+MainFrame.36=Impossible to open anything different than a Brick or a Schema.
+MainFrame.4=Help
+MainFrame.40=Do you want to save before exit ?
+MainFrame.5=New
+MainFrame.6=Open
+MainFrame.7=Save
+MainFrame.8=Save as ...
+MainFrame.9=Export
+
+MainFrameTriades.0=Triade
+MainFrameTriades.1=Actor selection
+MainFrameTriades.2=Brick
+MainFrameTriades.3=Export
+MainFrameTriades.4=Global view
+MainFrameTriades.5= Actor selection
+
+ModelActeursEntreprise.1=Actors
+ModelActeursEntreprise.2=Meanings
+
+Moyen.0=Meaning generic name
+Moyen.1=\ not found
+
+MoyenEntreprise.1=Meaning not found
+
+NavigationMousePlugin.0=You can't delete a global view vertex.
+
+PopUpHelpView.0=Notes
+PopUpHelpView.1=Minimize
+PopUpHelpView.2=Maximize
+
+PopUpView.1=Minimize
+PopUpView.2=Maximize
+
+Program.0=An error just happened, this is its description :\n
+Program.1=DataPack (.dtp), Auto-save (.dtp~)
+Program.10=Exported datapack (.dte)
+Program.12=The file  
+Program.13=\ already exist.\nDo you want to overwrite it ?
+Program.14=Impossible to save 
+Program.15=\ in the file  
+Program.16=Impossible to save 
+Program.17=\ in the file 
+
+Program.2=\nIf you don't where this error is comming from, you should restart the application.\n Do you want to send a mail to the developpers\n(if it's the first time you meet this error,\nthis repport should be sent). 
+Program.3=Exported datapack (.dte)
+Program.4=Error report
+Program.5=Impossible to save 
+Program.6=Error while loading the file :\n
+Program.7=\ in the file 
+Program.8=DataPack
+
+RankContextualMenu.0=Main actor
+RankContextualMenu.1=Secondary actor
+RankContextualMenu.2=Remaining actor
+
+RelationChooserPopUp.0=Do you want to apply the modification in the last relation?
+
+RelationChooserView.0=Different item count : 
+RelationChooserView.1=\ \ Please choose the objectives and the meanings associted with this reslation.
+RelationChooserView.2=Ok
+RelationChooserView.3=Cancel
+RelationChooserView.4=Objectives
+RelationChooserView.5=Meanings
+RelationChooserView.6=Relation for the action time : 
+RelationChooserView.9=This relation is empty, so it won't be displayed. \n(all the fields are set to "No relation")
+
+RelationComplete.0=Should be : 
+RelationComplete.1=\ undefined relations
+RelationComplete.2=\ undefined relation
+RelationComplete.3=Proper relation(s) : <br/>
+RelationComplete.4=Undefined relations : 
+RelationComplete.5=Gapped relations <br/>
+RelationComplete.6=Gapped objectives <br/>
+RelationComplete.7=Gapped meanings  <br/>
+
+SchemaEditingMousePlugin.0=You can't delete a vertex.\nYou could hide it during export.
+SchemaEditingMousePlugin.1=You can't delete a relation.\nYou could hide it during export.
+SchemaEditingMousePlugin.2=Relation edition
+SchemaEditingMousePlugin.3=Relation edition
+SchemaEditingMousePlugin.4=Relation creation
+
+SchemaGenerator.0=Global view of step : 
+
+Session.0=Description of : 
+
+TitleBar.0=Minimize
+TitleBar.1=Close
+TitleBar.2=Tree
+
+TranslatorView.0=Actities
+TranslatorView.1=Steps
+TranslatorView.2=Action times
+TranslatorView.3=Relations
+TranslatorView.4=Actors
+TranslatorView.5=Meanings
+TranslatorView.6=Bricks
+TranslatorView.7=Search
+
+TriadeIntroPanel.0=Get every diagrams
+
+V_0_9_9_9.ActorSheetView.0=Actor context summary
+ExportPopUp.5=Edge color
+ExportPopUp.6=Color
+Version_0_9_9_9.ExportView.0=Show next step
+Version_0_9_9_9.ExportView.1=Show previous step
+ActorSheetAccess.2=Actor description
+Version_0_9_9_9.ExportView.2=Displayed step :
+Version_0_9_9_9.ActorSheetView.2=Actor context summary
+Version_0_9_9_9.ActorSummary.7=Brick with gapped relations for the actor :<br> \n
+Version_0_9_9_9.ActorSummary.8=Bricks with gapped relations for the actor : <br> \n
+Version_0_9_9_9.MailSender.11=Impossible to add the file
+RelationChooserView.10=Show return relation
+RelationChooserView.11=No return relation
+ExportPopUp.13=Text size
+Version_0_9_9_9.ActorSheetNavigationTree.4=Remaining actor(s)
+Version_0_9_9_9.ActorSheetNavigationTree.3=Secondary actor(s)
+Version_0_9_9_9.ActorSheetNavigationTree.2=Main actor(s)
+Version_0_9_9_9.ActorSheetNavigationTree.1=Remaining actor : 
+Controller.4=This tab closure will close de session. \nDo you want to close it?
+Controller.2=Are you sure you want to change session?
+ExportPopUp.11=Edge color
+Controller.3=This tab close will cancel session creation.\nDo you want to close it?
+Encrypting.0=An error happend while opening the file  
+ExportView.0=Show next step
+ExportView.2=Displayed step : 
+ExportView.1=Display previous step
+Version_0_9_9_9.MailSender.5=file  
+Version_0_9_9_9.MailSender.6= not found, impossible to attach it to the mail
+BrickView.7=A multiple edges had been detected in the scheme. It will be deleted, please check the relation.
+Program.11=An error just happened, it could have corrupt the datapack,\nDo you want to continue to work ?
+Program.9=The multiple instance check had been disactivated.\n Are you sure you have only one Triades launched?
+Controller.0=Are you sure you want to change session?
+Controller.1=No datapack avaible, impossible to open a session. The software will be closed.
+MainFrame.0=Are you sure you want to quit?
+Version_0_9_9_9.ActorSummary.21=Brick with only correct for the actor : <br> \n
+Version_0_9_9_9.ActorSummary.22=Bricks with only correct for the actor : <br> \n
+Version_0_9_9_9.ActorSummary.15=Brick with unfilled relation for the actor : <br> \n
+Version_0_9_9_9.ActorSummary.14=Bricks with unfilled relation for the actor : <br> \n
+Version_0_9_9_9.NavigationTree.0=Exported
+
+
+Version_1_0_1.AssistantFrameTriades.1=Manage sessions
+Version_1_0_1.AssistantFrameTriades.9=Sessions management
+Version_1_0_1.ExportInformationPanel.0=Global options
+Version_1_0_1.ExportInformationPanel.1=Let this field empty to hide the title
+Version_1_0_1.ExportInformationPanel.10=Vertex label size
+Version_1_0_1.ExportInformationPanel.11=Export title
+Version_1_0_1.ExportInformationPanel.2=No label
+Version_1_0_1.ExportInformationPanel.3=Structural relations
+Version_1_0_1.ExportInformationPanel.4=Real relations
+Version_1_0_1.ExportInformationPanel.5=Action time : 
+Version_1_0_1.ExportInformationPanel.6=Edge label default content
+Version_1_0_1.ExportInformationPanel.7=Edge label size must be in the range from 1 to 50.
+Version_1_0_1.ExportInformationPanel.8=Edge label size
+Version_1_0_1.ExportInformationPanel.9=Vertex label size must be in the range from 1 to 50.
+Version_1_0_1.MailView.3=Let the mail adress where the answer should be sent. 
+Version_1_0_1.MainFrame.37=Change datapack language
+Version_1_0_1.MainFrameTriades.10=Relation at action time :  
+Version_1_0_1.MainFrameTriades.6=Brick edge labels
+Version_1_0_1.MainFrameTriades.7=Note editing
+Version_1_0_1.MainFrameTriades.8=Structural relations
+Version_1_0_1.MainFrameTriades.9=Real relations
+Version_1_0_1.PopUpHelpView.3=The option "Note editing" in the edition menu must be enabled to edit notes.
+Version_1_0_1.PopUpHelpView.91=To allow note editing, please enable the option "Note editing" in the edition menu.
+Version_1_0_1.SessionManagementView.0=Cureent sessions
+Version_1_0_1.SessionManagementView.1=Open
+Version_1_0_1.SessionManagementView.10=Save as
+Version_1_0_1.SessionManagementView.11=Delete
+Version_1_0_1.SessionManagementView.12=At least one session must be selected to delete it.
+Version_1_0_1.SessionManagementView.13=Are you sure to want to delete
+Version_1_0_1.SessionManagementView.14=the selected session?
+Version_1_0_1.SessionManagementView.15=the selected sessions?
+Version_1_0_1.SessionManagementView.16=\nWarning, this action can't be undone.
+Version_1_0_1.SessionManagementView.17=Rename
+Version_1_0_1.SessionManagementView.18=What is the new name of the sessions 
+Version_1_0_1.SessionManagementView.19=Close
+Version_1_0_1.SessionManagementView.2=Only one session can be opened in the same time.
+Version_1_0_1.SessionManagementView.20=Use Ctrl to add a session to the selection and Shift to select a group
+Version_1_0_1.SessionManagementView.21=You hae to select at least one session to save it.
+Version_1_0_1.SessionManagementView.22=dts
+Version_1_0_1.SessionManagementView.23=Archived sessions
+Version_1_0_1.SessionManagementView.24=A session with the same name :  
+Version_1_0_1.SessionManagementView.25=\nis already existing, do you want to overwrite it?
+Version_1_0_1.SessionManagementView.3=A session have to be selected in the list
+Version_1_0_1.SessionManagementView.4=Select all
+Version_1_0_1.SessionManagementView.5=Import
+Version_1_0_1.SessionManagementView.7=Archived sessions
+Version_1_0_1.SessionManagementView.8=Error while importing the sessions : \n
+Version_1_0_1.SessionManagementView.9=Archive
+Version_1_0_1.TranslatorView.10=Export
+Version_1_0_1.TranslatorView.12=Datapack translation
+Version_1_0_1.TranslatorView.13=Exit
+Version_1_0_1.TranslatorView.8=Import
+Version_1_0_1.TranslatorView.9=The current translation will be lost. Are you sure you want to replace it?
+Version_1_0_1.DataPack.30=dtt
+Version_1_0_1.DataPack.31=Datapack translation
+
+Version_1_0_2.DialogHandlerFrame.2=Information
+Version_1_0_2.ExportInformationPanel.0=Delete export
+Version_1_0_2.ExportInformationPanel.1=Are you sure you want to delete this export?
+Version_1_0_2.NavigationTree.0=Delete export
+Version_1_0_2.NavigationTree.1=Are you sure you want to delete export 
+Version_1_0_2.NavigationTree.2=?\nThe export will be deleted from the list on the next software launch.
+Version_1_0_2.PopUpHelpView.100=To select an actor, click on its name in the left list, then click on the buttons "Add main actor" or "Add secondary actor".\n
+Version_1_0_2.PopUpHelpView.101=It is also possible to add a whole group by selecting the folder group in the list.\n
+Version_1_0_2.PopUpHelpView.102=Once selection has been made, click on "Create session" button on the bottom of the window. Warning, the list couldn't be modified after session creation.\n
+Version_1_0_2.PopUpHelpView.3=This view allow to open any situations (bricks) where selectied actors are involved.\n
+Version_1_0_2.PopUpHelpView.91=The bricks are grouped by step. For each step, the navigation scheme contains 3 concentric circles corresponding to a degree of interest of each bricks for thoses actors.\n
+Version_1_0_2.PopUpHelpView.94=The inner circle contains most interesting bricks and the outer one contains less interestings bricks.\n
+Version_1_0_2.PopUpHelpView.95=The colors of bricks correspond to the relations in the brick, blue one are for unfilled relations, red one for gapped relations and green one contains only correct relations.\n
+Version_1_0_2.PopUpHelpView.96=Exports can be open from the folder "exported" of each step or with a right-click on the brick.\n
+Version_1_0_2.PopUpHelpView.97=The first step of session creation consist on selecting involved actors and giving a name to the session.\n
+Version_1_0_2.PopUpHelpView.98=To name a session, you have to edit the field above the adding buttons.\n
+Version_1_0_2.PopUpHelpView.99=It is possible to add main actors (thoses who are directly involved in the situation) and secondary actors.\n
+Version_1_0_2.TranslatorView.12=Translation statistics : \n
+Version_1_0_2.TranslatorView.13=\ translated sentences for a total of  
+Version_1_0_2.TranslatorView.14=\ translated words.\n
+Version_1_0_2.TranslatorView.8=Statistics
+Version_1_0_2.TranslatorView.9=Datapack reinitialisation
+
+Version_1_0_3.AutoUpdater.0=\ (old)
+Version_1_0_3.AutoUpdater.10=?\nIt will be renamed as  
+Version_1_0_3.AutoUpdater.14=Mise à jour du datapack réalisée avec succès
+Version_1_0_3.AutoUpdater.2=Please enter the URL of the datapack
+Version_1_0_3.AutoUpdater.5=Error during the load of the old datapack.\nDo you want to replace it by the new one?\n Data won't be transfered.
+Version_1_0_3.AutoUpdater.7=Error during the load of the new datapack, the update will be aborted.
+Version_1_0_3.AutoUpdater.8=Do you want to update the translation?\nThe old one will be lost.
+Version_1_0_3.AutoUpdater.9=Do you want to keep the session  
+Version_1_0_3.AutoUpdater.15=An old datapack has already been archived today, Do you want to replace it with this one?
+Version_1_0_3.AutoUpdater.16=Error while deleting the old datapack.
+Version_1_0_3.GenericTools.0=Error while downloading the datapack, wrong address
+Version_1_0_3.GenericTools.1=Error while downloading the datapack :\n
+Version_1_0_3.KeyGenerator.0=Licence already billed
+Version_1_0_3.KeyGenerator.1=Personnal
+Version_1_0_3.KeyGenerator.10=Licence generator
+Version_1_0_3.KeyGenerator.11=Name to add :
+Version_1_0_3.KeyGenerator.12=Add to the list
+Version_1_0_3.KeyGenerator.13=Mail address must be at least 5 caracters long
+Version_1_0_3.KeyGenerator.17=Mail address can't contains space, neither ',', neither ';'
+Version_1_0_3.KeyGenerator.18=This mail address is already in the list
+Version_1_0_3.KeyGenerator.2=Institution 1 license
+Version_1_0_3.KeyGenerator.20=Import list from clipboard
+Version_1_0_3.KeyGenerator.22=No address mail could be extracted from clipboard content.
+Version_1_0_3.KeyGenerator.24=\ address extract from clipboard : \n
+Version_1_0_3.KeyGenerator.28=\ elements couldn't be used :
+Version_1_0_3.KeyGenerator.3=Institution 5 licenses
+Version_1_0_3.KeyGenerator.31=\nAre you sure wout want to add them to the list?
+Version_1_0_3.KeyGenerator.32=Error while getting text from clipboard, are you sure the right content have been copied before?
+Version_1_0_3.KeyGenerator.33=Licenses list
+Version_1_0_3.KeyGenerator.34=Delete entry
+Version_1_0_3.KeyGenerator.35=Modify mail
+Version_1_0_3.KeyGenerator.36=Please give the new mail
+Version_1_0_3.KeyGenerator.37=Mail address should be at least 5 caracters long
+Version_1_0_3.KeyGenerator.38=Copy mail
+Version_1_0_3.KeyGenerator.39=Copy code
+Version_1_0_3.KeyGenerator.4=Institution 25 licenses
+Version_1_0_3.KeyGenerator.40=Copy line
+Version_1_0_3.KeyGenerator.41=Copy the whole list
+Version_1_0_3.KeyGenerator.42=License type
+Version_1_0_3.KeyGenerator.43=Generate licenses
+Version_1_0_3.KeyGenerator.44=A license type must be selected
+Version_1_0_3.KeyGenerator.45=Are you sure you want to generate 
+Version_1_0_3.KeyGenerator.46=\ licenses of type  
+Version_1_0_3.KeyGenerator.47=\nA billing request will be automaticaly generated.
+Version_1_0_3.KeyGenerator.49=Error during internet connection check, impossible to generate licences.\nPlease check that no firewall is blocking the software connection.
+Version_1_0_3.KeyGenerator.5=Institution 100 licenses
+Version_1_0_3.KeyGenerator.50=Licenses file
+Version_1_0_3.KeyGenerator.52=Licenses file saving
+Version_1_0_3.KeyGenerator.53=Licenses generate on  
+Version_1_0_3.KeyGenerator.55=\ license(s) of type  
+Version_1_0_3.KeyGenerator.58=Error during file creation, do you want to continue licenses generation?\nYou will have to copy manually the licenses list from the clipboard.
+Version_1_0_3.KeyGenerator.64=Wrong key
+Version_1_0_3.KeyGenerator.65=Please enter your personnal key :
+Version_1_0_3.UnlockingPopup.0=Datapack unlocking
+Version_1_0_3.UnlockingPopup.1=Please enter the mail address associated to the licence and the unlocking code :
+Version_1_0_3.UnlockingPopup.2=Ok
+Version_1_0_3.UnlockingPopup.3=Cancel
+Version_1_0_3.MainFrame.19=Create a limited-time datapack
+Version_1_0_3.MainFrame.15=Licenses generator
+Version_1_0_3.MainFrame.24=Language
+Version_1_0_3.MainFrame.27=The new language will be used after the next restart.
+Version_1_0_3.MainFrame.34=Tools
+Version_1_0_3.MainFrame.38=\nDatapack unlock until : 
+Version_1_0_3.MainFrame.unlockDatapackButton=Enter licence code 
+Version_1_0_3.MainFrame.alreadyUnlocked=This datapack is already associated to a license
+Version_1_0_3.Program.18=No datapack detected, do you want to download one?
+Version_1_0_3.Program.19=Please enter datapack address
+Version_1_0_3.Datapack.39=Datapack trial time expired, do you want to enter an unlock code (from a license)?
+Version_1_0_3.Datapack.41=Error, mail address should be at least 5 caracters long
+Version_1_0_3.Datapack.44=Error, the code should be exactly 12 caracters long
+Version_1_0_3.Datapack.45=The datapack has been successfully unlocked
+Version_1_0_3.Datapack.51=Wrong unlock code
+Version_1_0_3.Datapack.56=Please enter the duration of trial time (from 0 to 365 jours)\n0 correspond to a datapack for licensed users.
+Version_1_0_3.Datapack.58=Wrong duration, please enter an integer number.
+Version_1_0_3.Datapack.59=This duration is too long, the datapack trail time will last 365 days
+Version_1_0_3.DataPack.32=Traduction chargée avec succès.\nVeuillez relancer le programme pour finaliser l'application de la traduction.
+
+
+

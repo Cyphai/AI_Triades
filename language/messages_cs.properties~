@@ -1,0 +1,394 @@
+ActeurBase.0=base non nomm\u00E9e
+
+ActeurSelectionne.0=\ (acteur principal)
+ActeurSelectionne.1=\ (acteur secondaire)
+ActeurSelectionne.2=\ (acteur restant)
+
+ActorListView.0=Session du 
+ActorListView.1=Acteurs principaux
+ActorListView.10=Ajouter un acteur secondaire
+ActorListView.11=Vous devez s\u00E9lectionner des acteurs principaux avant de cr\u00E9er votre session.
+ActorListView.12=Nom pour la session : 
+ActorListView.14=Fiche
+ActorListView.15=Acteur principal   
+ActorListView.16=Acteur secondaire
+ActorListView.2=Nom de la session
+ActorListView.3=Ajouter un acteur principal
+ActorListView.4=Cr\u00E9er la session
+ActorListView.5=Information
+ActorListView.6=L'\u00E9l\u00E9ment s\u00E9lectionn\u00E9 n'est pas un acteur
+ActorListView.7=Acteur n\u00B0
+ActorListView.8=Supprimer
+ActorListView.9=Acteurs secondaires
+
+ActorSheetAccess.0=Acc\u00E8s aux fiches acteurs
+ActorSheetAccess.1=Ouvrir la fiche acteur
+ActorSheetAccess.2=Fiches des acteurs
+
+ActorSheetView.1=Nom associ\u00E9 \u00E0 l'acteur "
+ActorSheetView.10=Fiche de : 
+ActorSheetView.2=" pour la session : 
+ActorSheetView.3=Premier r\u00E9cit
+ActorSheetView.5=Deuxi\u00E9me r\u00E9cit
+ActorSheetView.7=Notes
+
+AssistantFrameTriades.0=Assistant
+AssistantFrameTriades.2=Editer l'ensemble des sch\u00E9mas
+AssistantFrameTriades.3=Cr\u00E9er une nouvelle session
+AssistantFrameTriades.4=Ouvrir une ancienne session
+AssistantFrameTriades.5=Ok
+AssistantFrameTriades.6=Annuler
+AssistantFrameTriades.7=Veuillez s\u00E9lectionner une option...
+AssistantFrameTriades.8=Anciennes sessions :
+
+AutoSaveCreator.2=Une sauvegarde automatique plus recente existe d\u00E9j\u00E0,\n voulez vous l'utiliser ?
+
+BrickVertex.0=Moyen 
+BrickVertex.1=Acteur :  
+BrickVertex.2=Activit\u00E9 : 
+BrickVertex.3=Type de contenu inconnu
+BrickVertex.4=Brick : 
+
+BrickView.0=Afficher les acteurs secondaires
+BrickView.1=Masquer les acteurs secondaires
+BrickView.11=Sommet non nomm\u00E9
+BrickView.2=Afficher les acteurs restants
+BrickView.3=Masquer les acteurs secondaires
+BrickView.4=Masquer les acteurs restants
+BrickView.5=Afficher les acteurs secondaires
+BrickView.6=Afficher les acteurs restants
+BrickView.7=Une ar\u00EAte multiple a \u00E9t\u00E9 d\u00E9tect\u00E9e dans le sch\u00E9ma.\nElle va \u00EAtre supprim\u00E9e, v\u00E9rifiez les relations du sch\u00E9ma.\nFaites suivre le log pour analyse.\n
+BrickView.8=Masquer les acteurs secondaires
+
+Controller.34=Nouveau
+Controller.35=datapack.dtp
+Controller.36=datapack
+Controller.37=Voulez-vous enregistrer le 
+Controller.38=\ actuel avant d'en ouvrir un autre ?
+Controller.39=Voulez-vous enregistrer avant de fermer ?
+
+DialogHandlerFrame.0=Attention
+DialogHandlerFrame.1=S\u00E9lectionnez une option
+
+Encrypting.0=Une erreur s'est produite lors de l'ouverture du fichier 
+ExportedDatapackModule.0=Session compl\u00E8te
+
+ExportImagesView.0=Triades
+ExportImagesView.1=Information
+ExportImagesView.2=Supprimez ou renommer le fichier 
+ExportImagesView.3=\ dans le dossier o\u00F9 vous avez lancer Triades et recommencer.
+ExportImagesView.4=Valider
+ExportImagesView.5=Annuler
+ExportImagesView.6=Appliquer l'image \u00E0 toute la session
+ExportImagesView.7=Images
+
+ExportingMousePlugin.0=Il n'existe aucune ar\u00EAte entre ces deux sommets.
+ExportingMousePlugin.1=Afficher l'\u00E9tape pr\u00E9c\u00E9dente
+ExportingMousePlugin.2=Vous \u00EAtes d\u00E9j\u00E0 \u00E0 la premi\u00E8re \u00E9tape
+ExportingMousePlugin.3=Afficher l'\u00E9tape suivante
+ExportingMousePlugin.4=Vous \u00EAtes d\u00E9j\u00E0 \u00E0 la derni\u00E8re \u00E9tape
+
+ExportPopUp.0=Selection de l'image associ\u00E9e au sommet.
+ExportPopUp.1=Texte associ\u00E9
+ExportPopUp.10=Visible
+ExportPopUp.12=Etape affich\u00E9e
+ExportPopUp.16=Vous \u00EAtes d\u00E9j\u00E0 \u00E0 la premi\u00E8re \u00E9tape
+ExportPopUp.18=Vous \u00EAtes d\u00E9j\u00E0 \u00E0 la derni\u00E8re \u00E9tape
+ExportPopUp.2=Texte affich\u00E9 \u00E0 c\u00F4t\u00E9 du sommet. Si vous laissez ce champs vide le texte par d\u00E9faut sera affich\u00E9.
+ExportPopUp.3=Masquer
+ExportPopUp.4=Contr\u00F4le de l'\u00E9tape affich\u00E9e. Cela permet de v\u00E9rifier les ordres d'apparitions des sommets
+ExportPopUp.7=Ordre d'apparition
+ExportPopUp.8=Choisir une image
+ExportPopUp.9=Image
+
+ExportsContextualMenu.0=Export
+ExportsContextualMenu.1=Exporter vers une image
+ExportsContextualMenu.2=Veuillez saisir le nom de la nouvelle image
+ExportsContextualMenu.3=Export de 
+
+ExportTree.0=\ (cach\u00E9)
+ExportView.0=Afficher l'\u00E9tape suivante
+ExportView.1=Afficher l'\u00E9tape pr\u00E9c\u00E9dente
+ExportView.2=Etape affich\u00E9e : 
+
+JpegGenerator.0=S\u00E9lection du dossier d'export
+JpegGenerator.10=\ existe d\u00E9j\u00E0.\nSouhaitez-vous le remplacer ?
+JpegGenerator.11=_Etape_
+JpegGenerator.13=Image sauv\u00E9 dans 
+JpegGenerator.15=Erreur lors de la g\u00E9n\u00E9ration de l'image
+JpegGenerator.16=Image sauv\u00E9 dans 
+JpegGenerator.18=Erreur lors de la g\u00E9n\u00E9ration de l'image
+JpegGenerator.19=G\u00E9n\u00E9rer une image
+JpegGenerator.2=Nom du fichier : 
+JpegGenerator.4=Images
+JpegGenerator.7=_Etape_
+JpegGenerator.9=Le fichier 
+
+MailAddRelationForm.0=[TriadesRelation]
+MailAddRelationForm.addRelationIntroduction= souhaite ajouter des relations : \n\n
+MailAddRelationForm.addRelationSubject=Demande d'ajout de relations : 
+
+MailErrorForm.0=Informations compl\u00E9mentaire (D\u00E9taillez l'action qui a provoqu\u00E9 l'erreur) : \n\n\nRapport d'erreur : \n
+MailErrorForm.3=Rapport d'erreur
+
+MailForm.1=Information
+MailForm.2=Mail envoy\u00E9
+MailForm.3=Erreur lors de l'envoie du mail
+
+MailFormFactory.addRelationSubject=Mail d'ajout de relations
+MailFormFactory.informationRequestSubject=Mail de demande d'information
+
+MailSender.0=fichier 
+MailSender.1=\ non trouv\u00E9, impossible de l'ajouter au mail
+MailSender.8=Impossible d'envoyer le datapack lors d'une erreur
+MailSender.subjectPrefix=[Triades]
+MailSender.subjectSuffix=\ (Mail pour robert)
+
+MailView.0=Mail
+MailView.10=Envoyer
+MailView.4=Type de formulaire
+MailView.5=Sujet du mail
+MailView.6=Contenu du mail
+MailView.7=Adresse de r\u00E9ponse
+MailView.8=Formulaire de mail
+MailView.9=Annuler
+
+MainFrame.1=<html><u>F</u>ichier</html>
+MainFrame.10=Fermer
+MainFrame.11=Quitter
+MainFrame.12=Supprimer
+MainFrame.13=Renommer
+MainFrame.14=Fermer l'onglet courant
+MainFrame.15=Aide
+MainFrame.16=Mise \u00E0 jour
+MainFrame.17=A propos de Datapack Creator
+MainFrame.18=Demande d'ajout de relations
+MainFrame.19=Arborescence
+MainFrame.2=<html><u>E</u>dition</html>
+MainFrame.20=Edition
+MainFrame.21=Mise \u00E0 jour
+MainFrame.22=Votre programme est \u00E0 jour.
+MainFrame.23=A Propos
+MainFrame.24=Triades v. 1.0\n\nDéveloppeurs :\nMaurin NADAL\nLaurent DUTERTRE\n\nAncien développeur : \nTh\u00E9o TATINCLAUX\n\n(c) 2012
+MainFrame.25=Mail pour les developpeurs
+MainFrame.26=Agrandir
+MainFrame.27=Arborescence
+MainFrame.28=Agrandir
+MainFrame.29=Nouveau
+MainFrame.3=<html><u>F</u>en\u00EAtre</html>
+MainFrame.30=Ouvrir
+MainFrame.31=Enregistrer
+MainFrame.32=Enregistrer Sous...
+MainFrame.33=Supprimer
+MainFrame.34=Aide
+MainFrame.35=Fermer l'onglet courant
+MainFrame.36=Impossible d'ajouter un onglet avec objet autre qu'une brique ou un mod\u00E8le.
+MainFrame.4=<html><u>A</u>ide</html>
+MainFrame.40=Voulez-vous enregistrer avant de quitter ?
+MainFrame.5=Nouveau
+MainFrame.6=Ouvrir
+MainFrame.7=Enregistrer
+MainFrame.8=Enregistrer sous...
+MainFrame.9=Exporter
+
+MainFrameTriades.0=Triades
+MainFrameTriades.1=S\u00E9lection des acteurs
+MainFrameTriades.2=Brique
+MainFrameTriades.3=Export
+MainFrameTriades.4=Vue globale
+MainFrameTriades.5=S\u00E9lection des acteurs
+
+ModelActeursEntreprise.1=Acteurs
+ModelActeursEntreprise.2=Moyens
+
+Moyen.0=Nom generique du moyen
+Moyen.1=\ introuvable
+
+MoyenEntreprise.1=Moyen introuvable
+
+NavigationMousePlugin.0=Vous ne pouvez pas supprimer un sommet dans une vue globale.
+
+PopUpHelpView.0=Notes
+PopUpHelpView.1=R\u00E9duire
+PopUpHelpView.2=Agrandir
+
+PopUpView.1=R\u00E9duire
+PopUpView.2=Agrandir
+
+Program.0=Une erreur vient de se produire, voil\u00E0 sa description :\n
+Program.1=DataPack (.dtp), Sauvegarde automatique (.dtp~)
+Program.10=Datapack export\u00E9 (.dte)
+Program.12=Le fichier 
+Program.13=\ existe d\u00E9j\u00E0.\nSouhaitez-vous le remplacer ?
+Program.14=Impossible de sauver 
+Program.15=\ dans le fichier 
+Program.16=Impossible de sauver 
+Program.17=\ dans le fichier 
+Program.2=\nSi vous ne savez d'o\u00F9 vient cette erreur\n il est pr\u00E9f\u00E9rable de red\u00E9marrer l'application\nVoulez vous envoyez un rapport d'erreur aux d\u00E9veloppeurs? \n(Si c'est la premi\u00E8re fois que cette erreur se produit\n il est pr\u00E9f\u00E9rable d'envoyer ce rapport).
+Program.3=Datapack Export\u00E9 (.dte)
+Program.4=Rapport d'erreur
+Program.5=Impossible de sauver 
+Program.6=Impossible de charger le fichier :\n
+Program.7=\ dans le fichier 
+Program.8=DataPack
+
+RankContextualMenu.0=Acteur primaire
+RankContextualMenu.1=Acteur secondaire
+RankContextualMenu.2=Acteur restant
+
+RelationChooserPopUp.0=Voulez-vous appliquer les modifications r\u00E9alis\u00E9es sur la relation pr\u00E9c\u00E9dente ?
+
+RelationChooserView.0=Nombre d'item diff\u00E9rents : 
+RelationChooserView.1=\ \ Veuillez choisir les objectifs et les moyens associ\u00E9s \u00E0 cette relation...
+RelationChooserView.2=Ok
+RelationChooserView.3=Annuler
+RelationChooserView.4=Objectifs
+RelationChooserView.5=Moyens
+RelationChooserView.6=Relation pour le temps d'action : 
+RelationChooserView.9=Cette relation est vide, elle ne sera donc pas affich\u00E9e. \n(Tous les temps d'actions \u00E0 "Pas de relation")
+
+RelationComplete.0=Devrait \u00EAtre : 
+RelationComplete.1=\ relations non-d\u00E9finies
+RelationComplete.2=\ relation non-d\u00E9finie
+RelationComplete.3=Relation(s) en accord <br/>
+RelationComplete.4=Relations non-d\u00E9finies
+RelationComplete.5=Relations en conflit <br/>
+RelationComplete.6=Objectifs en \u00E9carts <br/>
+RelationComplete.7=Moyens en \u00E9carts <br/>
+
+
+SchemaEditingMousePlugin.0=Vous ne pouvez pas supprimer de sommet d'un sch\u00E9ma.\nVous pourrez toutefois le masquer lors de l'exportation du sch\u00E9ma.
+SchemaEditingMousePlugin.1=Vous ne pouvez pas supprimer de relation d'un sch\u00E9ma.\nVous pourrez toutefois la masquer lors de l'exportation du sch\u00E9ma.
+SchemaEditingMousePlugin.2=Edition d'une relation
+SchemaEditingMousePlugin.3=Edition d'une relation
+SchemaEditingMousePlugin.4=Cr\u00E9ation d'une relation
+SchemaGenerator.0=Vue globale de l'\u00E9tape : 
+Session.0=Fiche de : 
+TitleBar.0=R\u00E9duire
+TitleBar.1=Fermer
+TitleBar.2=Arborescence
+TranslatorView.0=Activit\u00E9s
+TranslatorView.1=Etapes
+TranslatorView.2=Temps d'action
+TranslatorView.3=Relations
+TranslatorView.4=Acteurs
+TranslatorView.5=Moyens
+TranslatorView.6=Briques
+TranslatorView.7=Recherche
+TriadeIntroPanel.0=Voir l'ensemble des sch\u00E9mas
+
+Version_0_9_9_9.ActorSheetNavigationTree.1=Acteur restant : 
+Version_0_9_9_9.ActorSheetNavigationTree.2=Acteur(s) primaire(s)
+Version_0_9_9_9.ActorSheetNavigationTree.3=Acteur(s) secondaire(s)
+Version_0_9_9_9.ActorSheetNavigationTree.4=Acteur(s) restant
+Version_0_9_9_9.ActorSummary.14=Brique pr\u00E9sentant une relation incompl\u00E8te : <br>\n
+Version_0_9_9_9.ActorSummary.15=Briques pr\u00E9sentant une relation incompl\u00E8te : <br>\n
+Version_0_9_9_9.ActorSummary.21=Brique pour laquelle l'acteur est dans une situation ad\u00E9quate : <br>\n
+Version_0_9_9_9.ActorSummary.22=Briques pour lesquelles l'acteur est dans une situation ad\u00E9quate : <br>\n
+Version_0_9_9_9.ActorSummary.7=Brique pr\u00E9sentant une relation en \u00E9cart :<br>\n
+Version_0_9_9_9.ActorSummary.8=Briques pr\u00E9sentant une relation en \u00E9cart : <br>\n
+Version_0_9_9_9.MailSender.11=Impossible d'ajouter le fichier 
+Version_0_9_9_9.MailSender.5=fichier 
+Version_0_9_9_9.MailSender.6=\ non trouv\u00E9, impossible de l'ajouter au mail
+V_0_9_9_9.ActorSheetView.0=R\u00E9sum\u00E9 de la situation de l'acteur
+Version_0_9_9_9.ActorSheetView.2=Résumé de la situation de l'acteur
+Version_0_9_9_9.ExportView.0=Afficher l'étape suivante
+Version_0_9_9_9.ExportView.1=Afficher l'étape précédente
+Version_0_9_9_9.ExportView.2=Etape affichée : 
+ExportPopUp.11=Couleur de l'ar\u00EAte
+ExportPopUp.13=Taille du texte
+ExportPopUp.5=Couleur de l'ar\u00EAte
+ExportPopUp.6=Couleur
+MainFrame.0=Etes-vous sur de vouloir quitter le programme?
+Program.11=Une erreur fatal est survenu, cette erreur peut avoir corrompu votre datapack,\n voulez vous continuer \u00E0 travailler sur ce datapack ?
+Program.6=Le logiciel est d\u00E9j\u00E0 ouvert, merci d'utiliser l'autre.\n(Si aucun autre n'est ouvert r\u00E9f\u00E9rencez vous au manuel.)
+Program.9=La v\u00E9rification d'ouverture multiple du logiciel est d\u00E9sactiv\u00E9e\nVoulez vous continuer \u00E0 travailler avec ?\n(Si vous ne connaissez pas l'origine de ce message, r\u00E9f\u00E9rencez vous au manuel.)
+RelationChooserView.10=Afficher la relation r\u00E9ciproque
+RelationChooserView.11=Pas de relation retour
+Controller.4=La fermeture de cet onglet ferme la session.\nEtes-vous sur de vouloir continuer?
+Controller.0=Etes-vous sur de vouloir changer de session?
+Controller.1=Aucun datapack disponible, impossible d'ouvrir une session. Le programme va se fermer.
+Controller.2=Etes-vous sur de vouloir changer de session?
+Controller.3=La fermeture de cet onglet annule la cr\u00E9ation de la session.\nEtes-vous sur de vouloir continuer?
+Controller.34=Nouveau
+Version_0_9_9_9.NavigationTree.0=Export\u00E9s
+
+Version_1_0_1.AssistantFrameTriades.1=Gérer les sessions
+Version_1_0_1.AssistantFrameTriades.9=Gestion des sessions
+Version_1_0_1.ExportInformationPanel.0=Options globales
+Version_1_0_1.ExportInformationPanel.1=Laisser ce champ vide masquera le titre dans l'image.
+Version_1_0_1.ExportInformationPanel.10=Taille des étiquettes des sommets.
+Version_1_0_1.ExportInformationPanel.11=Titre de l'export
+Version_1_0_1.ExportInformationPanel.2=Aucune étiquette
+Version_1_0_1.ExportInformationPanel.3=Relations structurelles
+Version_1_0_1.ExportInformationPanel.4=Relations réelles
+Version_1_0_1.ExportInformationPanel.5=Temps d'action : 
+Version_1_0_1.ExportInformationPanel.6=Contenu des étiquettes des arêtes
+Version_1_0_1.ExportInformationPanel.7=La taille des étiquettes des arêtes doit être comprise entre 1 et 50.
+Version_1_0_1.ExportInformationPanel.8=Taille des étiquettes des arêtes.
+Version_1_0_1.ExportInformationPanel.9=La taille des étiquettes des sommets doit être comprise entre 1 et 50.
+Version_1_0_1.MailView.3=Indiquer une adresse mail où\nnous pourrons vous répondre.
+Version_1_0_1.MainFrame.37=Changer la langue du datapack
+Version_1_0_1.MainFrameTriades.10=Relations au temps d'action : 
+Version_1_0_1.MainFrameTriades.6=Etiquettes des arêtes des briques
+Version_1_0_1.MainFrameTriades.7=Edition des notes
+Version_1_0_1.MainFrameTriades.8=Relations structurelles
+Version_1_0_1.MainFrameTriades.9=Relations réelles
+Version_1_0_1.PopUpHelpView.3=L'option "Edition des notes" du menu Edtition doit être activé avant de pouvoir editer les notes.
+Version_1_0_1.PopUpHelpView.91=Pour permettre l'édition des notes, veuillez activer l'option "Edition des notes" dans le menu Edition
+Version_1_0_1.SessionManagementView.0=Sessions courantes
+Version_1_0_1.SessionManagementView.1=Ouvrir
+Version_1_0_1.SessionManagementView.10=Enregistrer sous
+Version_1_0_1.SessionManagementView.11=Supprimer
+Version_1_0_1.SessionManagementView.12=Vous devez sélectionner au moins une session pour la supprimer
+Version_1_0_1.SessionManagementView.13=Etes-vous sur de vouloir supprimer 
+Version_1_0_1.SessionManagementView.14=la session sélectionnée?
+Version_1_0_1.SessionManagementView.15=les sessions sélectionnées?
+Version_1_0_1.SessionManagementView.16=\nAttention, cette opération est irréversible.
+Version_1_0_1.SessionManagementView.17=Renommer
+Version_1_0_1.SessionManagementView.18=Veuillez saisir le nouveau nom pour la session 
+Version_1_0_1.SessionManagementView.19=Fermer
+Version_1_0_1.SessionManagementView.2=Vous ne pouvez ouvrir qu'une seule session à la fois.
+Version_1_0_1.SessionManagementView.20=Utilisez Ctrl pour ajouter un élément à la sélection et Maj pour sélectionner un groupe d'élement
+Version_1_0_1.SessionManagementView.21=Vous devez sélectionner au moins une session pour pouvoir l'enregistrer.
+Version_1_0_1.SessionManagementView.22=dts
+Version_1_0_1.SessionManagementView.23=Sessions archivées
+Version_1_0_1.SessionManagementView.24=Une session portant le nom 
+Version_1_0_1.SessionManagementView.25=\nexiste déjà. Voulez vous la remplacer?
+Version_1_0_1.SessionManagementView.3=Une session doit être sélectionnée dans la liste
+Version_1_0_1.SessionManagementView.4=Tout sélectionner
+Version_1_0_1.SessionManagementView.5=Importer
+Version_1_0_1.SessionManagementView.7=Sessions archivées
+Version_1_0_1.SessionManagementView.8=Erreur lors de l'importation des sessions : \n
+Version_1_0_1.SessionManagementView.9=Archiver
+Version_1_0_1.TranslatorView.10=Exporter
+Version_1_0_1.TranslatorView.12=Traduction de datapack
+Version_1_0_1.TranslatorView.13=Quitter
+Version_1_0_1.TranslatorView.8=Importer
+Version_1_0_1.TranslatorView.9=La traduction actuelle va être perdue lors de l'importation d'une nouvelle traduction.\nEtes-vous sur de vouloir continuer?
+Version_1_0_1.DataPack.30=dtt
+Version_1_0_1.DataPack.31=Traduction de datapack
+Version_1_0_1.DataPack.32=Traduction chargée avec succès.
+
+Version_1_0_2.DialogHandlerFrame.2=Information
+Version_1_0_2.ExportInformationPanel.0=Supprimer l'export
+Version_1_0_2.ExportInformationPanel.1=Etes vous sur de vourloir supprimer cet export?
+Version_1_0_2.NavigationTree.0=Supprimer l'export
+Version_1_0_2.NavigationTree.1=Etes vous sur de vouloir supprimer l'export 
+Version_1_0_2.NavigationTree.2=?\nAttention, l'export ne disparaitra de la liste que lors du prochain chargement de la session.
+Version_1_0_2.PopUpHelpView.100=Pour sélectionner un acteur, cliquer sur son nom dans la liste sur la gauche, puis cliquer sur le bouton "Ajouter un acteur principal" ou "Ajouter un acteur secondaire" en fonction du rôle de l'acteur.\n
+Version_1_0_2.PopUpHelpView.101=Il est possible d'ajouter un groupe entier en sélectionnant le dossier du groupe dans la liste.\n
+Version_1_0_2.PopUpHelpView.102=Une fois la sélection terminée, cliquez sur "Créer la session" en bas de la fenêtre. Attention, il n'est plus possible de modifier cette liste un fois la session créée.\n
+Version_1_0_2.PopUpHelpView.3=Cette vue permet d'accéder aux différentes situations dans lesquelles les acteurs sélectionnés sont impliqués.\n
+Version_1_0_2.PopUpHelpView.91=Les briques sont regroupées par étapes. Pour chaque étape, le schéma de navigation présente 3 cercles correspondants aux niveau d'importance de chaque brique.\n
+Version_1_0_2.PopUpHelpView.94=Les plus importantes sont sur le cercle du centre et les moins importantes à l'extérieur.\n
+Version_1_0_2.PopUpHelpView.95=Les briques bleues sont celles comportant des relations non-définies, les rouges des relations en écart et les vertes sont celle où toutes les relations sont en accord.\n
+Version_1_0_2.PopUpHelpView.96=Il est possible d'accéder aux exports d'une briques à l'aide du dossier "exportés" de l'étape correspondante où à l'aide d'un clic droit sur la brique.
+Version_1_0_2.PopUpHelpView.97=Lors de la création d'une nouvelle session, la première étape consiste à sélectionner les acteurs concernés par cette situation et à nommer cette session.\n
+Version_1_0_2.PopUpHelpView.98=Pour nommer la session, éditer le titre juste au dessus de la liste des acteurs.\n
+Version_1_0_2.PopUpHelpView.99=Il est possible de sélectionner des acteurs principaux (ceux qui sont directement concernés par la situation), et des acteurs secondaires.\n
+Version_1_0_2.TranslatorView.12=Statistiques de la traduction : \n
+Version_1_0_2.TranslatorView.13=\ phrases traduites pour un total de  
+Version_1_0_2.TranslatorView.14=\ mots traduits.
+Version_1_0_2.TranslatorView.8=Statistiques
+Version_1_0_2.TranslatorView.9=Reinitialisation du datapack

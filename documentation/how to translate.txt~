@@ -1,0 +1,3 @@
+To translate the interface, you have to translate the file message_english.properties into your language and rename it as message_local.properties. Then place this file in the installation folder of Triades. Normally, the translation will be automaticaly applied.
+
+The encodage of the file is UTF-16

@@ -1,0 +1,51 @@
+Messages.getAvailableLocale : unrecognized translation file
+Messages.getAvailableLocales : added locale : italien (it-)
+Messages.getAvailableLocale : unrecognized translation file
+Messages.getAvailableLocale : unrecognized translation file
+Messages.getAvailableLocales : added locale : anglais (en-)
+Messages.getAvailableLocales : added locale : français (fr-)
+getProgramKey Intern
+Key : -119 80 78 71 13 10 26 10 0 0 0 13 73 72 68 82 
+getProgramKey Intern
+Key : -119 80 78 71 13 10 26 10 0 0 0 13 73 72 68 82 
+load crypted : /home/babcool/Triades/fla3.dte
+TreeActorsCellRendere.createDefaultLabel() : Groupe : préparation
+TreeActorsCellRendere.createDefaultLabel() : Groupe : préparation
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.Vector.elementData(Vector.java:730)
+	at java.util.Vector.elementAt(Vector.java:473)
+	at client.NavigationTree.mouseClicked(NavigationTree.java:247)
+	at java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:270)
+	at java.awt.Component.processMouseEvent(Component.java:6519)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3311)
+	at java.awt.Component.processEvent(Component.java:6281)
+	at java.awt.Container.processEvent(Container.java:2229)
+	at java.awt.Component.dispatchEventImpl(Component.java:4872)
+	at java.awt.Container.dispatchEventImpl(Container.java:2287)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4832)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4501)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4422)
+	at java.awt.Container.dispatchEventImpl(Container.java:2273)
+	at java.awt.Window.dispatchEventImpl(Window.java:2719)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:735)
+	at java.awt.EventQueue.access$200(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:694)
+	at java.awt.EventQueue$3.run(EventQueue.java:692)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.awt.EventQueue$4.run(EventQueue.java:708)
+	at java.awt.EventQueue$4.run(EventQueue.java:706)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:705)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+TreeActorsCellRendere.createDefaultLabel() : Groupe : préparation
+TreeActorsCellRendere.createDefaultLabel() : Groupe : préparation

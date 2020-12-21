@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_79" class="java.beans.XMLDecoder">
+ <object class="tools.ConfigCreator" id="ConfigCreator0">
+  <void id="LastObjectUsed0" property="lastDatapack">
+   <void property="lastObjects">
+    <void method="add">
+     <string>/home/babcool/Triades/childhood 2octobre 2012.dtp</string>
+    </void>
+    <void method="add">
+     <string>/home/babcool/Triades/test.dtp</string>
+    </void>
+    <void method="add">
+     <string>/home/babcool/Triades/cyber_ok.dtp</string>
+    </void>
+    <void method="add">
+     <string>/home/babcool/Téléchargements/gras savoie1.dtp</string>
+    </void>
+    <void method="add">
+     <string>/home/babcool/Téléchargements/gras savoie 2.dtp</string>
+    </void>
+    <void method="add">
+     <string>/home/babcool/Triades/gras_savoye_ok.dtp</string>
+    </void>
+    <void method="add">
+     <string>/home/babcool/Téléchargements/test_new_bis.dtp</string>
+    </void>
+    <void method="add">
+     <string>/home/babcool/Téléchargements/test_new.dtp</string>
+    </void>
+   </void>
+  </void>
+ </object>
+</java>

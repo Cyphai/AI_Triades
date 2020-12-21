@@ -1,0 +1,97 @@
+\input{preambule}
+
+\begin{document}
+
+TODO demain : 
+\begin{itemize}
+\item Enlever tous ces TODO
+\item packaging installation Translator + Triades fr et anglais automatique
+\item Licences et CGU (en particulier licence java)
+\end{itemize}
+
+TODO code
+\begin{itemize}
+\item SplashScreen et afficher execution mode dedans\\
+\item choix de la clé a l'export et vérifié collision des clés
+\item Changer le couleur des ecart moyens\\
+
+\end{itemize}
+
+TODO Fait :
+\begin{itemize}
+\item Ajouter dossier données dans config
+\item screenshot infobulle
+\item Virer moyen vides
+\item Corriger réplication relations
+\item ouverture automatique datapack translator
+\item ouvrir un seul datapack exporté
+\item Relire et enlever les fautes !
+\item parler de translator
+\item mettre à jours "A propos"
+\item boutton relation retour dans la popup d'edition de relation
+\item Externaliser dernières strings
+\item Sélectionner ensemble minimum de classe a inclure dans le jar
+\item øøøø A verifier sous windows transparence primaire/secondaire øøøø
+\item  Demander Robert réunion d'intervention medecin accompagnant et chef de service éducatif et fin d'accompagnement officiel
+\item  Confirmation sur ouvrir, nouveau et quitter
+\item  mettre à jour l'assistant de création de session dans triades quand on ferme une sessions
+\item  ajouter numéro de versiondans datapack
+\item  corriger correction moyen objectif
+\item  Fiche acteur toujours en deuxième
+\item  carré couleur arête
+\item  trier les acteurs dans l'arbre de navigation des fiches d'acteur
+\item  placer l'arbre de navigation des fiches d'acteur et les fiches d'acteurs dans le bon cadre
+\item  envoi mail sans internet
+\item  limiter le datapack dans le temps
+\item  navigabilité acteurs
+\item  fiche acteur à compléter
+\item  Tri des relations dans RelationChooserView avec le bon collator
+\item  rafraichissement arete a pas Pas de relation (deselection arete lorsque l'on quitte le relationChooserView
+\item  ordre d'apparition des arêtes
+\item  filelock
+\item  navigabilité arete retour
+\item  anciennes sessions
+\item  liste acteur séléctionné
+\end{itemize}
+
+% page de garde
+% table des matières
+
+% introduction
+\input{introduction}
+
+
+
+% 1 Sessions et liste de d'acteurs
+% 1.1 Session
+% 1.2 Selection des acteurs
+% 1.3 fiche acteurs
+\input{session}
+
+% 2 Etapes et briques
+% 2.1 Vue globale
+% 2.2 Ouverture d'une brique
+% 2.3 Edition des relations
+\input{etapes}
+
+
+% 3 Export vers des images
+% 3.1 Element modifiables
+% 3.2 Ajout d'images personnelles
+% 3.3 Génération d'images
+\input{export}
+
+
+% 4. Système d'envoi de mail
+% 4.1 Demande d'ajout d'une relation
+% 4.2 Rapport d'erreur
+\input{mail}
+
+% 5. StringTranslator
+\input{translator}
+
+
+\input{conclusion}
+
+
+\end{document}

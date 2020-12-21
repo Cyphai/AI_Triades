@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/media/Data/Prog/Developpement/ProjetsEclipse/Jar/DatapackCreator.1.0.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Triades/creator.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Triades/&lt;graphicalUserInterface{CreatorLauncher.java[CreatorLauncher" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <folder path="/Triades/automateGraph"/>
+        <javaElement handleIdentifier="=Triades/&lt;graphicalUserInterface"/>
+        <javaElement handleIdentifier="=Triades/&lt;tools"/>
+        <javaElement handleIdentifier="=Triades/&lt;client.export"/>
+        <javaElement handleIdentifier="=Triades/&lt;Mailing"/>
+        <javaElement handleIdentifier="=Triades/&lt;translation"/>
+        <file path="/Triades/Licences"/>
+        <javaElement handleIdentifier="=Triades/&lt;main"/>
+        <folder path="/Triades/schemas"/>
+        <javaElement handleIdentifier="=Triades/&lt;client"/>
+        <javaElement handleIdentifier="=Triades/&lt;client.stringTranslator"/>
+        <folder path="/Triades/automate"/>
+        <file path="/Triades/.classpath"/>
+        <folder path="/Triades/Icones"/>
+        <javaElement handleIdentifier="=Triades/&lt;encrypting"/>
+        <javaElement handleIdentifier="=Triades/&lt;models"/>
+        <folder path="/Triades/lib"/>
+        <javaElement handleIdentifier="=Triades/&lt;relations"/>
+        <javaElement handleIdentifier="=Triades/&lt;dataPack"/>
+        <folder path="/Triades/resolution"/>
+    </selectedElements>
+</jardesc>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_26" class="java.beans.XMLDecoder"> 
+ <object class="tools.Config"> 
+  <void property="lastDatapack"> 
+   <void property="lastObjects"> 
+    <void method="add"> 
+     <string>/home/babcool/testNouveau.dtp</string> 
+    </void> 
+    <void method="add"> 
+     <string>/home/babcool/nouvelExport.dte</string> 
+    </void> 
+    <void method="add"> 
+     <string>/home/babcool/testNouveau.dtp~.dtp</string> 
+    </void> 
+   </void> 
+  </void> 
+  <void property="lastImages"> 
+   <void property="lastObjects"> 
+    <void method="add"> 
+     <null/> 
+    </void> 
+    <void method="add"> 
+     <object class="client.export.ExportImageData"> 
+      <void property="imageIndex"> 
+       <int>14</int> 
+      </void> 
+     </object> 
+    </void> 
+    <void method="add"> 
+     <object class="client.export.ExportImageData"> 
+      <void property="imageIndex"> 
+       <int>28</int> 
+      </void> 
+     </object> 
+    </void> 
+    <void method="add"> 
+     <object class="client.export.ExportImageData"/> 
+    </void> 
+    <void method="add"> 
+     <object class="client.export.ExportImageData"/> 
+    </void> 
+    <void method="add"> 
+     <object class="client.export.ExportImageData"/> 
+    </void> 
+    <void method="add"> 
+     <object class="client.export.ExportImageData"/> 
+    </void> 
+    <void method="add"> 
+     <object class="client.export.ExportImageData"/> 
+    </void> 
+    <void method="add"> 
+     <object class="client.export.ExportImageData"/> 
+    </void> 
+    <void method="add"> 
+     <object class="client.export.ExportImageData"/> 
+    </void> 
+   </void> 
+  </void> 
+ </object> 
+</java> 

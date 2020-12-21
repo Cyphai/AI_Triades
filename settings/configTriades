@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_65" class="java.beans.XMLDecoder">
+ <object class="tools.ConfigTriades" id="ConfigTriades0">
+  <void class="tools.ConfigTriades" method="getField">
+   <string>localeCode</string>
+   <void method="set">
+    <object idref="ConfigTriades0"/>
+    <string>fr</string>
+   </void>
+  </void>
+  <void property="lastImages">
+   <void property="lastObjects">
+    <void method="add">
+     <object class="client.export.ExportImageData">
+      <void property="imageIndex">
+       <int>3</int>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="client.export.ExportImageData">
+      <void property="imageIndex">
+       <int>29</int>
+      </void>
+     </object>
+    </void>
+   </void>
+  </void>
+ </object>
+</java>

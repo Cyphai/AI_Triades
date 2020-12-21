@@ -1,0 +1,36 @@
+\documentclass[10pt,a4paper]{report}
+\usepackage[utf8x]{inputenc}
+\usepackage[french]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{fancyhdr}
+\usepackage{fancybox}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+
+\author{Robert Michit - Maurin Nadal - Laurent Dutertre}
+\title{Triades - Manuel utilisateur}
+
+\newcommand{\tria}{\textbf{Triades }}
+
+
+\geometry{hmargin=2.5cm, vmargin=3cm}
+
+
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\renewcommand{\chaptermark}[1]{\markboth{\bsc{\chaptername~\thechapter{} :} #1}{}} 
+\renewcommand{\sectionmark}[1]{\markright{\thesection{} #1}}
+
+\rhead{\tria - version 1.0.3}
+\lhead{\leftmark}
+
+%\cfoot{\thepage / \pageref{\LastPage}}
+\addtolength{\fboxsep}{10pt}
+

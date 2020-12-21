@@ -1,0 +1,12 @@
+\documentclass[10pt,a4paper]{report}
+\usepackage[utf8x]{inputenc}
+\usepackage[french]{babel}
+\usepackage{ucs}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\author{Maurin NADAL - Laurent Dutertre}
+\title{Triades - Manuel utilisateur}{Version 1.0}
+
+\newcommand{\tria}{\textbf{Triades}}

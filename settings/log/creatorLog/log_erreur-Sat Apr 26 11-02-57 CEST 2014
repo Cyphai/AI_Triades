@@ -1,0 +1,14 @@
+java.lang.ExceptionInInitializerError
+	at graphicalUserInterface.MainFrame.myMenuBar(MainFrame.java:140)
+	at graphicalUserInterface.MainFrameDatapackCreator.myMenuBar(MainFrameDatapackCreator.java:157)
+	at graphicalUserInterface.MainFrame.createAndShowGUI(MainFrame.java:103)
+	at graphicalUserInterface.MainFrame.<init>(MainFrame.java:94)
+	at graphicalUserInterface.MainFrame.<init>(MainFrame.java:87)
+	at graphicalUserInterface.MainFrameDatapackCreator.<init>(MainFrameDatapackCreator.java:35)
+	at graphicalUserInterface.Program.main(Program.java:134)
+	at graphicalUserInterface.CreatorLauncher.main(CreatorLauncher.java:16)
+Caused by: java.lang.NullPointerException
+	at javax.swing.ImageIcon.<init>(ImageIcon.java:205)
+	at graphicalUserInterface.IconDatabase.<init>(IconDatabase.java:136)
+	at graphicalUserInterface.IconDatabase.<clinit>(IconDatabase.java:131)
+	... 8 more

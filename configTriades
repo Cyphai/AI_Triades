@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_26" class="java.beans.XMLDecoder"> 
+ <object class="tools.ConfigTriades"> 
+  <void property="lastImages"> 
+   <void property="lastObjects"> 
+    <void method="add"> 
+     <object class="client.export.ExportImageData"> 
+      <void property="imageIndex"> 
+       <int>15</int> 
+      </void> 
+     </object> 
+    </void> 
+    <void method="add"> 
+     <object class="client.export.ExportImageData"> 
+      <void property="imagePath"> 
+       <string>/home/babcool/Triade/pics/repas.jpeg</string> 
+      </void> 
+     </object> 
+    </void> 
+   </void> 
+  </void> 
+ </object> 
+</java> 

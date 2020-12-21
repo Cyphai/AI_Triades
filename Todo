@@ -1,0 +1,242 @@
+A tester : 
+		- Import export traduction
+		- Import export session (et contenu)
+		- Tooltip des relations quand fenetre trop petite
+	- Fiches acteur
+		- Tester les modifications dans les fiches acteurs en fonction d'où on l'ouvre (clique droit arbre, onglet fiches acteur...). 
+
+Todo de Triades :
+	- Gestion des sessions : 
+		- ##FFait## Ne rafraichis pas quand on supprime toutes les sessions. 
+
+	- Popup de notes : 
+ 		- Garder la même largeur pour la popup (edition/lecture). 
+
+	- Export : 
+		*****- Modifier Schéma en brique dans la barre de titre d'un schéma
+		*****- Cadre en dessous de l'arbre ecrasé à l'ouverture de l'export. Par contre il prend bien en compte ses tailles minimum quand on l'agrandis à la main.
+		- Quand on export vers une images et qu'il y à deja des images du même nom dans le dossier de sauvegarde, Triades demande 
+		uniquement pour la première image et remplace (ou pas) les autres images (des autres etapes) sans demander. 
+		Au moins indiquer au client que touteles images seront remplacés.
+		*****- Mettre un message d'avertissement quand on modifie le menu Edition qui n'agit quesur les shema et non les export.
+		*****- Si on selectionne plusieurs aretes ou sommet à la suite sans rien changer certains sommet/arete perdent leur taille de texte par defaut. 
+		- ##Fait## Modif taille des étiquettes quand on sélectionne une arete sans modifier la taille explicitement (donc taille par defaut plus prise en compte)
+
+	- Popup d'aide : 
+ 		- ##Fait## Changer la couleur du fond quand elle est editable (blanc par exemple).
+ 		- ##Fait## Elle est ouverte à l'ouverture d'un shema si elle est vide et qu'on est pas en mode edition.
+ 		- ##Fait## Elle ne s'affiche que sur le dernier shema qu'on ouvre.
+
+ 	- Shema :
+ 		- Ouvrire une fiche acteur avec le clique droit dans l'arbre ouvre un acteur qui n'est pas celui de l'arbre des fiches acteurs. 
+ 		- ##Fait## [1] Quand on choisis d'afficher les relations d'un seul temps d'action, la relation structurel est affiché deux fois dans l'etiquettes des arêtes. 
+ 		- ##Fait## Afficher les relation Réels des arêtes affiche les relation structurelles
+
+	- Export : 
+		- ##Fait## Si on change d'etape avec le clic droit le nom de l'etape (en bas au milieu) ne change pas.
+		- ##Fait## L'arbre et les réglages à droites prennent beaucoup de place à l'ouverture de l'export.
+		- ##Fait## Popup d'aide dans les export.
+		- ##Fait## Comme pour la note [1] des shema.
+		- ##Fait## Dans le popup d'export la taille du texte (sommets et arêtes) est à -1 quand elle n'est pas défini pas l'utilisateur
+
+Pour mardi : 
+ - Ajouter les versions 
+ - License
+
+/***** TODO pour les version après la 1.0.0 *****/
+ - Supprimer le allActeurs dans Datapack
+ - Choisir l'emplacement de travail pour Triades
+ - Taille des images dans un schema exporté
+ - Revenir au dernier onglet utilisé quand on ferme un onglet
+
+
+TODO noté a Prague
+- Problème au niveau du changement de session (on garde les anciens noms personnalisés)
+- Problème au niveau des sessions (partage des relations entre les diffrérente's sessions)
+- Pouvoir changer l'ordre des étapes pour pouvoir le rendre vrai :P
+- Selection de l'arête avant d'afficher la RelationChooserPopup par clic sur arête. 
+- Ajouter les relations autres pour que les utilisateurs puissent ajouter leurs propres relations  
+
+/************************************************/
+
+
+
+
+
+
+Todo phase de test
+
+*** Flood autosave xD... et problème sauvegarde, possiblement réalisée dans la dernière autosave
+*** Et tout cassé, on ne peut pas ouvrir un export qu'on vient de réaliser...
+
+
+
+
+
+
+
+
+TODO demain : 
+\begin{itemize}
+\item Enlever tous ces TODO
+\item packaging installation Translator + Triades fr et anglais automatique
+\item Licences et CGU (en particulier licence java)
+\end{itemize}
+
+TODO code
+\begin{itemize}
+\item SplashScreen et afficher execution mode dedans\\
+\item choix de la clé a l'export et vérifié collision des clés
+\item Changer le couleur des ecart moyens\\
+
+\end{itemize}
+
+TODO Fait :
+\begin{itemize}
+\item Ajouter dossier données dans config
+\item screenshot infobulle
+\item Virer moyen vides
+\item Corriger réplication relations
+\item ouverture automatique datapack translator
+\item ouvrir un seul datapack exporté
+\item Relire et enlever les fautes !
+\item parler de translator
+\item mettre à jours "A propos"
+\item boutton relation retour dans la popup d'edition de relation
+\item Externaliser dernières strings
+\item Sélectionner ensemble minimum de classe a inclure dans le jar
+\item øøøø A verifier sous windows transparence primaire/secondaire øøøø
+\item  Demander Robert réunion d'intervention medecin accompagnant et chef de service éducatif et fin d'accompagnement officiel
+\item  Confirmation sur ouvrir, nouveau et quitter
+\item  mettre à jour l'assistant de création de session dans triades quand on ferme une sessions
+\item  ajouter numéro de versiondans datapack
+\item  corriger correction moyen objectif
+\item  Fiche acteur toujours en deuxième
+\item  carré couleur arête
+\item  trier les acteurs dans l'arbre de navigation des fiches d'acteur
+\item  placer l'arbre de navigation des fiches d'acteur et les fiches d'acteurs dans le bon cadre
+\item  envoi mail sans internet
+\item  limiter le datapack dans le temps
+\item  navigabilité acteurs
+\item  fiche acteur à compléter
+\item  Tri des relations dans RelationChooserView avec le bon collator
+\item  rafraichissement arete a pas Pas de relation (deselection arete lorsque l'on quitte le relationChooserView
+\item  ordre d'apparition des arêtes
+\item  filelock
+\item  navigabilité arete retour
+\item  anciennes sessions
+\item  liste acteur séléctionné
+\end{itemize}
+
+
+
+
+
+
+
+Todo dernière rencontre Robert :
+
+Modif Triades
+
+Vérifier la fusion des relation possibility
+
+*** Légende dans la view des jeux d'acteurs
+
+*** Info sur l'entreprise
+
+*** Enregistrer last_path pour l'ouverture sauvegarde
+
+*** bug trouvé, tester à mort pour valider *** Elements pas supprimés de l'arbre apres une suppression, cause une erreur impossible de supprimer l'élément sélectionné.
+
+*** Permettre les modfis des noms et propriétés des etapes et tout, et aussi pour les briques, pouvoir changer l'étape...
+
+*** PRoblème relation réelle.. structurelle lors de l'édition dans triades...
+
+*** Définir un ordre d'apparition des sommet dans les exports et mettre en place un mode animation pour faire apparaitre 
+
+*** Pouvoir ajouter une relation structurelle "pas de relation" dans triade lors de l'édition des relations réelles d'une brique. Cette relation serait alors forcément en conflit... 
+
+(Reste à faire les formulaire) formulaire mail envoi nouvelle relation
+
+Enlever orientation aretes dans vue globale
+
+*** Arbre éditable et qui se referme lors d'un nouvel export
+
+Bouding box export jpeg pas bon
+
+### trad anglais
+
+
+
+Todo Creator :
+
+A faire :
+
+***- Mise a jours des listes des relations quand on ajoute celle par defaut. ***
+- Légende du tebleau d'édition de derelations
+***- Mise à jour du tableau d'edition des relations quand on edite une relation. (il ne s'affiche pas pour le moment)
+*done* - Changer l'extention des datapack exporté
+
+
+Bugs :
+
+*** - Quand on importe des relation les relations courante sont supprimées 
+tout de suite alors qu'il faudrait qu'elles soit supprimées uniquement 
+si le robert selectionne un fichier de relation. 
+- 
+
+Todo Triades :
+
+A faire : 
+
+*done* - Ajouter dans le menu un bouton : "Ajouter/Editer les relations" 
+(histoire de pouvoir y aller de n'importe où)
+- Selection des aretes au clique.
+**done** Afficher le shema de navigation au clique sur le dossier qui contient
+les sous schemas. Et supprimer le noeud de l'arbre qui représente ce schema de
+navigation.
+**possibilitité d'afficher le noeud de schema de navigation rapidement si besoins
+
+*en cours* Synchronisation entre la selection dans l'arbre et la selection dans le schema view
+*coté arbre il ne manque plus qu'a ajouter le schema view pour l'informer d'une nouvelle selection.
+*La fonction qui selectionne l'acteur dans l'arbre en fonction de son Id est faites (reste plus qu'a tester lors de l'intégration)
+
+** done ** - Changer le code couleur des aretes (rouge pas bon, bleu incomplet et vert ok).
+- Ajouter une popup de validation lors de l'export d'un nouveau schema pour informer
+le client qu'il peut commencer a modifier le schema (sinon il n'y a pas de changement
+ou presque et il ne sait pas si ca bug ou non).
+- Indiquer au client que les l'export de ces schemas en image est belle est bien fini
+(pour le moment rien ne ce passe et il ne sait pas pas ce qu'il c'est passé). Voir meme
+afficher les images qu'il vient de créer pour qu'il puisse les vérifier.
+- Associer une image/texte/autres pour des acteurs particuliés qui seront pris en compte
+pour tout les export. Pour ne pas refaire le changement a chaque nouvel export.
+
+Bugs :
+
+**done** Quand on cache un acteur d'un jeu d'acteur l'abre fait du grand n'importe quoi.
+** si un dossier avait le meme id qu'un groupe et bien il se caché avec.
+
+**done** L'arbre de navigation n'est pas mis à jour quand on exporte un nouveau schema depuis
+un schema view (possiblement le mauvais construicteur appelé)
+**Il y avait un constructeur d'ExportContextualMenu qui ne prenait pas de navigationTree en argument donc il ne pouvait
+pas le mettre a jours. J'ai ajouté le navigationTree en transient dans la session courante.
+
+**done** reload de l'arbre de navigation (pour l'instant il est reconstruit a chaque nouvel export)
+** l'arbre ne se reconstruit plus mais ajoute seulement le nouveaud schema exporté dans l'arbre
+
+Idées à valider ou à invalider :
+
+- Choisir une pour une session (ou en live) si on travaille sur les objectifs ou sur
+mes moyens pour afficher les ecarts.
+- Afficher des couleurs different si c'est les moyens ou les objectifs qui ne sont pas 
+correct.
+- J'ai pas trouvé comment changer de session une fois une session ouverte. 
+Obligé de relancer le programme...
+
+
+
+Todo pour les deux :
+
+- Ajouter des couleurs au boutons (ou autre) pour facilité la visiblité
+des boutons en fonction de leur fonction (vert ajoute, bleu edite, 
+rouge supprime par exemple)
